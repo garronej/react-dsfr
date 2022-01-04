@@ -24,6 +24,8 @@
   <a href="https://github.com/garronej/react-dsfr">Documentation</a>
 </p>
 
+This module will be a fork of [@dataesr/react-dsfr](https://github.com/dataesr/react-dsfr)
+
 # Install / Import
 
 ```bash
@@ -31,7 +33,7 @@ $ npm install --save react-dsfr
 ```
 
 ```typescript
-import { myFunction, myObject } from "update_ts_ci";
+import { myFunction, myObject } from "react-dsfr";
 ```
 
 Specific imports:
